@@ -52,9 +52,6 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 This project is inspired by the coursework from Jonas Schmedtmann's [React course on Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=4471614). Special thanks to Jonas for his comprehensive teaching and valuable insights into React development.
 
 
-### Contact
-
-For any questions or inquiries, please contact [your email].
 
 ----------
 
